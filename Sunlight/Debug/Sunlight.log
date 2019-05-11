@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Inventory.h(22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(126): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Combat.h(157): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Diffusion.h(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Diffusion.h(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Sunlight\Diffusion.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sunlight.vcxproj -> C:\Users\Logan\Documents\IvyTech\Spring2019\Data Structures\Sunlight\Debug\Sunlight.exe
